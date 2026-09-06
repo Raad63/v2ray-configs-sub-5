@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+trojan://k2se1acbwb2t1o0e@199.232.78.160:443?mode=auto&path=/@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN&security=tls&extra={"xPaddingBytes":"0"}&insecure=0&host=uonshop.global.ssl.fastly.neT&fp=chrome&type=xhttp&allowInsecure=0&sni=ssl.fastly.com#EPODONIOS
+trojan://k2se1acbwb2t1o0e@199.232.78.160:443?mode=auto&path=/@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN---@UonVPN&security=tls&extra={"xPaddingBytes":"0"}&insecure=0&host=uonshop.global.ssl.fastly.neT&fp=chrome&type=xhttp&allowInsecure=0&sni=ssl.fastly.com#EPODONIOS
+trojan://kkzh2prsyr2ik47as615@64.94.95.117:57142?allowInsecure=1&fp=chrome#EPODONIOS
 trojan://l6R5znJSPJ@179.237.75.190:16350?type=tcp&security=reality&headerType=http&path=/5747463414152474635353366347474334&host=rd.autos.yahoo.com:41636&sni=rd.autos.yahoo.com:40069&fp=chrome&insecure=1&allowInsecure=1&pbk=o3oWckXNBDaHDXgqRVLPje6P1r9DRSeCuYtStxCiXz8&spx=/#EPODONIOS
 trojan://l6R5znJSPJ@6r6e6e6ryrfyfyydur6r6f6r6r6r6d6d6e6s6d6s6d7d7d7e6s.poki-pakipon.ir:16350?type=tcp&security=reality&headerType=http&path=/5747463414152474635353366347474334&host=rd.autos.yahoo.com:41636&sni=rd.autos.yahoo.com:40069&fp=chrome&insecure=1&allowInsecure=1&pbk=o3oWckXNBDaHDXgqRVLPje6P1r9DRSeCuYtStxCiXz8&spx=/#EPODONIOS
 trojan://mitivpn@104.16.72.70:443?path=/index.php/ed=mitivpn&security=tls&alpn=http/1.1&insecure=0&host=gamingdll.ir&fp=chrome&type=ws&allowInsecure=0&sni=gamingdll.ir#EPODONIOS
@@ -1000,6 +1003,3 @@ vless://289c4c75-9ea6-4c23-bda2-17d32c533db4@bolguarmarz.horlutr.ir:2087?encrypt
 vless://289c4c75-9ea6-4c23-bda2-17d32c533db4@bolguarmarz.horlutr.ir:2087?security=none&encryption=none&host=/&headerType=http&type=tcp#EPODONIOS
 vless://29189069-dde3-475b-8cc8-c9bcd30d5c12@199.232.78.159:443?path=/&security=tls&encryption=none&insecure=0&host=lsjaoijji.global.ssl.fastly.neT&type=ws&allowInsecure=0&sni=ssl.fastly.com#EPODONIOS
 vless://29662c1f-2478-4556-a9a3-b12a6a66e148@mci.sulduz.pw:2174?security=&encryption=none&host=filimo.com&headerType=http&type=tcp#EPODONIOS
-vless://29834e2e-729c-491f-af21-d1d9a8bde8c6@76.164.200.157:443?fp=chrome&sni=usa-fd013f.atlanta-api.com&security=tls&type=tcp&headerType=none&alpn=h2,http/1.1&insecure=0&encryption=none&allowInsecure=0#EPODONIOS
-vless://29834e2e-729c-491f-af21-d1d9a8bde8c6@76.164.200.157:443?fp=chrome&sni=usa-fd013f.atlanta-api.com&security=tls&type=tcp&headerType=none&alpn=h2,http/1.1&insecure=0&encryption=none&allowInsecure=0#EPODONIOS
-vless://29834e2e-729c-491f-af21-d1d9a8bde8c6@76.164.200.157:443?fp=chrome&sni=usa-fd013f.atlanta-api.com&security=tls&type=tcp&headerType=none&alpn=h2,http/1.1&insecure=0&encryption=none&allowInsecure=0#EPODONIOS
